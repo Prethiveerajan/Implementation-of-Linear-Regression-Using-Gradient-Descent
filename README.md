@@ -23,6 +23,8 @@ Developed by: PrethiveeRajan P
 RegisterNumber: 212221230079 
 */
 ```
+/*
+````
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
@@ -49,6 +51,7 @@ plt.title("hours Vs scores(train)")
 plt.xlabel("hours")
 plt.ylabel("scores")
 plt.show()
+````
 
 ## Output:
 ![OUTPUT](output1.png)
