@@ -54,7 +54,7 @@ plt.show()
 ````
 
 ## Output:
-![OUTPUT](output1.png)
+![OUTPUT](output2.png)
 
 
 ## Result:
